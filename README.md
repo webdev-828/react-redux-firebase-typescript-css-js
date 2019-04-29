@@ -1,4 +1,4 @@
-# react-redux-firebase
+# react-redux-firebase-typescript-css-js
 
 [![NPM version][npm-image]][npm-url]
 [![NPM downloads][npm-downloads-image]][npm-url]
